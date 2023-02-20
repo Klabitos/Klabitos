@@ -1,7 +1,7 @@
-### Hi there 👋
+### Pablo 'Klabitos' Cruz here, 👋
 
 # 💫 About Me:
-🔭 Working at Air Institute as a VUE developer<br>👯 Looking to collaborate on international projects, willing to travel around the world.<br>🌱 I’m currently learning Django and improving my React<br>💬 Contact me! cruzrodripablo@gmail.com<br>⚡ I am also passionate about developing board games.
+🔭 Working at Air Institute as a VUE developer managing all the fronted projects of my group.<br>👯 Looking to collaborate on international projects, willing to travel around the world.<br>🌱 I’m currently learning Django and improving my React<br>💬 Contact me! cruzrodripablo@gmail.com<br>⚡ I am also passionate about developing board games.
 
 
 ## 🌐 Socials:
